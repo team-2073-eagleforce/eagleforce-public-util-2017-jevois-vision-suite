@@ -25,4 +25,6 @@ The third is used to validate the calibrations and create tracking values to be 
 **EagleTrkNoStream.py**-
 The last script is the one that actually runs during matches. It too uses the “Calibration” file for it’s tuning parameters. Unlike the third file, it does not stream video. Thus, it needs to be initiated by a line in “initscript.cfg”.
 
+If you would like to be a contributor to this repo, please contact me though a private message on Chief Delphi. My user name there is [Billbo911](https://www.chiefdelphi.com/forums/member.php?u=10773).
+
 
