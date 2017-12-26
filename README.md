@@ -11,7 +11,7 @@ With the release of our vision tracking code, you should be able to get target t
 In this package you will find four pieces of code: 
 
 **EagleTuner.py**-
-The first is run on a separate PC and is used to send tuning values to the camera.
+The first is run on a separate PC and is used to send tuning values to the camera. **This script requires you use Python 2.7 on the hosting device.**
  *(Make sure to edit this code to use the "COM Port" your PC has detected the JeVois is connected to.)*
 
 **EagleTrackCal.py**-
