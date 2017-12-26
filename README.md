@@ -19,7 +19,7 @@ The second is used with the first. It runs on JeVois and is the code that receiv
 
 
 **EagleTracker.py**-
-The third is used to validate the calibrations and create tracking values to be sent our serially to the roboRio. It uses the calibration values that were written to the “Calibration” file. This is launched via AMCap. “MJPG 320X240 15fps”
+The third is used to validate the calibrations and create tracking values to be sent out serially to the roboRio. It uses the calibration values that were written to the “Calibration” file. This is launched via AMCap. “MJPG 320X240 15fps”
 
 
 **EagleTrkNoStream.py**-
